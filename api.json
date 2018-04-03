@@ -1,0 +1,32 @@
+{
+  "order_id": 13,
+  "booking_person": 2,
+  "booking_datetime": "2016-07-01 22:30:00",
+  "total_amount": 2100,
+  "order_details": [
+    {
+      "id": 20,
+      "name": "Apple",
+      "order_id": 13,
+      "qty": 1,
+      "price": 3800,
+      "sub_total": 3800
+    },
+    {
+      "id": 21,
+      "name": "Banana",
+      "order_id": 13,
+      "qty": 1,
+      "price": 3250,
+      "sub_total": 3250
+    },
+    {
+      "id": 124,
+      "name": "Orange",
+      "order_id": 13,
+      "qty": 1,
+      "price": 2100,
+      "sub_total": 2100
+    }
+  ]
+}
